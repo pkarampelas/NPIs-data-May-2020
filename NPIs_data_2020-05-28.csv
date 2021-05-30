@@ -1,0 +1,48 @@
+﻿countries;Continent;first case date;first death date;Education Suspension;Sports Events Suspension;Cultural Events Suspension;Restaurants / Bars Closed;Religious Services Suspension;Movement Regulations;Lockdown / Curfew;Travel Advice China;Travel Advice world;Travelers Quarantine;Borders Closure;Cases per Urban 1000 km2;Cluster
+Singapore;AS;24-Jan;22-Mar;74;49;74;74;56;74;N;5;3;56;59;49575.66;O
+Luxembourg;EU;01-Mar;14-Mar;15;14;12;15;12;16;15;-30;15;N;22;4924.58;O
+Belgium;EU;04-Feb;12-Mar;38;38;38;38;38;N;43;25;39;50;45;4476.39;1
+Ireland;EU;01-Mar;12-Mar;11;11;23;23;23;26;26;-26;12;35;N;4276.42;1
+United Kingdom;EU;31-Jan;07-Mar;49;42;N;49;46;52;52;33;46;N;N;4151.62;2
+Switzerland;EU;26-Feb;06-Mar;16;5;19;19;27;N;N;21;16;N;28;3862.17;O
+Netherlands;EU;28-Feb;07-Mar;17;14;17;17;18;N;N;N;18;N;19;3436.31;2
+Turkey;AS;12-Mar;19-Mar;4;7;4;4;4;29;N;-9;-1;4;16;3389.31;2
+Spain;EU;01-Feb;05-Mar;39;40;40;41;41;42;51;N;47;N;45;3318.81;2
+Italy;EU;31-Jan;23-Feb;33;33;36;36;36;49;36;0;30;N;57;3065.44;S
+Germany;EU;28-Jan;10-Mar;45;47;54;54;54;55;54;N;49;N;47;2800.79;4
+Israel;AS;22-Feb;21-Mar;19;19;22;22;22;32;32;-23;4;16;25;2596.80;O
+Portugal;EU;03-Mar;18-Mar;9;7;10;10;10;17;17;N;9;17;13;2274.71;O
+Malta;EU;07-Mar;09-Apr;5;5;9;9;15;N;N;-10;12;5;3;1885.18;3
+United States of America;AM;21-Jan;01-Mar;70;50;N;N;59;N;67;10;51;N;59;1853.69;4
+Brazil;AM;26-Feb;18-Mar;N;N;N;N;N;N;N;N;33;20;20;1786.02;S
+Iceland;EU;29-Feb;20-Mar;13;13;24;24;N;N;N;-36;19;18;17;1760.05;3
+Iran;AS;20-Feb;20-Feb;3;3;3;N;25;N;N;N;N;N;N;1735.89;S
+France;EU;25-Jan;15-Feb;51;48;50;50;50;58;52;63;51;N;52;1647.07;4
+Austria;EU;26-Feb;13-Mar;13;15;19;19;19;19;19;13;18;19;19;1644.56;4
+Russia;AS;01-Feb;27-Mar;51;45;45;52;75;58;52;19;46;47;51;1502.37;4
+Denmark;EU;27-Feb;16-Mar;15;14;15;20;20;N;13;-20;15;11;16;1175.56;5
+Romania;EU;27-Feb;23-Mar;13;15;18;18;23;23;23;30;15;11;24;1081.84;5
+Sweden;EU;01-Feb;12-Mar;N;47;N;N;N;N;N;16;42;N;47;967.60;S
+Estonia;EU;28-Feb;26-Mar;16;16;24;20;22;N;27;-33;17;32;20;678.48;6
+Czech Republic;EU;02-Mar;23-Mar;8;11;11;11;11;13;13;-23;15;11;11;676.05;6
+Canada;AM;26-Jan;10-Mar;52;47;52;52;52;N;52;3;47;59;52;608.57;S
+Poland;EU;04-Mar;13-Mar;8;8;8;8;27;20;8;-39;11;11;11;607.48;7
+Slovenia;EU;05-Mar;18-Mar;11;11;11;11;11;15;N;-27;25;N;12;584.26;7
+South Korea;AS;20-Jan;21-Feb;34;35;35;N;41;N;N;N;56;72;N;504.74;O
+Egypt;AF;15-Feb;09-Mar;27;27;27;27;39;38;38;20;28;N;31;503.87;O
+India;AS;30-Jan;13-Mar;46;43;49;49;49;54;54;-9;43;54;48;431.85;O
+Croatia;EU;26-Feb;25-Mar;19;15;20;20;20;26;20;23;41;16;22;419.78;8
+Norway;EU;27-Feb;13-Mar;15;14;14;14;16;N;14;-10;16;19;18;404.15;8
+Cyprus;EU;10-Mar;25-Mar;3;6;6;6;14;13;13;6;6;6;5;401.68;8
+Bulgaria;EU;08-Mar;12-Mar;5;5;5;5;N;5;5;9;7;N;12;334.63;9
+Lithuania;EU;28-Feb;21-Mar;14;N;14;N;N;N;N;-36;13;N;17;334.21;9
+Finland;EU;30-Jan;22-Mar;46;47;46;46;48;N;N;43;42;46;49;316.52;9
+Latvia;EU;03-Mar;04-Apr;10;N;N;N;26;N;N;-32;10;9;14;307.46;9
+Hungary;EU;05-Mar;16-Mar;11;6;11;N;N;23;N;6;5;6;11;299.76;9
+South Africa;AF;06-Mar;27-Mar;12;20;20;20;20;20;20;9;9;N;20;290.22;O
+Australia;OC;25-Jan;01-Mar;N;57;58;58;58;64;64;7;48;51;55;191.72;O
+Slovakia;EU;07-Mar;07-Apr;6;6;6;6;3;32;N;-9;5;9;6;159.65;10
+Greece;EU;27-Feb;12-Mar;12;12;14;14;18;25;25;-14;20;18;19;153.03;10
+Japan;AS;15-Jan;13-Feb;47;42;45;N;N;N;N;17;71;29;77;150.03;S
+New Zealand;OC;28-Feb;29-Mar;24;26;26;26;26;26;26;-26;26;15;20;141.57;10
+Taiwan;AS;21-Jan;17-Feb;12;37;N;N;37;N;N;-16;59;53;66;24.05;S
